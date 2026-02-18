@@ -4,6 +4,8 @@
 
 A hands-on network analysis exercise using Wireshark to capture and inspect live traffic across multiple protocols. The focus was understanding how data moves through a network at both Layer 2 and Layer 3, and demonstrating the real-world security implications of encrypted vs unencrypted protocols.
 
+![WireShark_Screenshot](wireshark_screenshot.png)
+
 ## What I Analysed
 
 ### ICMP
